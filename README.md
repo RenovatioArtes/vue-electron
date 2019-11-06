@@ -1,4 +1,4 @@
-# wida-dash
+# Vue-Electron
 
 ## Project setup
 ```
